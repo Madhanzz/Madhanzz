@@ -19,5 +19,6 @@
 <img height="30" src="https://img.shields.io/badge/RAM-8GB-DDC200?style=for-the-badge&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/GPU-Intel_UHD_Graphics-76B900?style=for-the-badge&logo=intel&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/Storage-512GB_SSD-EC4D37?style=for-the-badge&logoColor=white"/>
-![Madhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhanzz&theme=dark&show_icons=true&&hide=issues,contribs)
-[![Madhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhanzz&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Madhan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Madhanzz&theme=dark&show_icons=true&&hide=issues,contribs)
+
+[![Madhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Madhanzz&theme=github&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
