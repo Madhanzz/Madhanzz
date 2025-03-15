@@ -11,7 +11,7 @@
 
 ### I code in
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank">
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
 ### 💻 Workspace Specs  
